@@ -12,3 +12,7 @@
   app.listen(3001,  () => {
   	console.log('Api is roaming on 3001`s door');
   })
+
+  app.listen(3001,  () => {
+  	console.log('Api is roaming on 3001`s door');
+  })
