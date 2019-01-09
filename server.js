@@ -9,10 +9,6 @@
   res.status(200).send({ message: 'Hello, I am Olá`s rote'});
   })
 
-  app.listen(3001,  () => {
-  	console.log('Api is roaming on 3001`s door');
-  })
-
-  app.listen(3001,  () => {
+   app.listen(3001,  () => {
   	console.log('Api is roaming on 3001`s door perfectly');
   })
