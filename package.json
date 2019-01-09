@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MatheusFelyppeDonato/git-test/issues"
   },
-  "homepage": "https://github.com/MatheusFelyppeDonato/git-test#readme"
+  "homepage": "https://github.com/MatheusFelyppeDonato/git-test#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
